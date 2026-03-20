@@ -1,1 +1,3 @@
 module_2/pytorch/aclImdb
+/venv/
+__pycache__/
